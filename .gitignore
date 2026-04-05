@@ -1,0 +1,18 @@
+# Output and test CSV files
+*_verified.csv
+*_output.csv
+test_*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Claude
+.claude/

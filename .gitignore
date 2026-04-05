@@ -1,7 +1,5 @@
-# Output and test CSV files
-*_verified.csv
-*_output.csv
-test_*.csv
+# CSV data files (keep out of repo — may contain personal data)
+*.csv
 
 # Python
 __pycache__/
